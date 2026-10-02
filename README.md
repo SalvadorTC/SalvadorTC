@@ -17,6 +17,8 @@ Soy estudiante de DAM y actualmente estoy aprendiendo a programar.
 Tengo titulación en:
 🇺🇸 Bachillerato Dual Americano
 🇬🇧 Cambridge English B2
+<br>
+<br>
 🚀 Tecnologías
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,java,python" alt="Tecnologías: HTML, Java y Python"/> </p>
 📚 Mi objetivo
