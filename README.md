@@ -20,5 +20,5 @@ Tengo titulación en:
 🚀 Tecnologías
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,java,python" alt="Tecnologías: HTML, Java y Python"/> </p>
 📚 Mi objetivo
-Seguir aprendiendo, mejorar mis habilidades de programación y crear proyectos que me permitan poner en práctica todo lo que voy aprendiendo durante DAM.
+Seguir aprendiendo y mejorar mis habilidades de programación.
  </p>
